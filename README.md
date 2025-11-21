@@ -11,7 +11,7 @@ Currently studying ~~computer science~~ psychology! Oh wow things change... :sun
 ### Contact me and look at my other work:
 
 <p>
-  <a href="[https://medium.com/@JulianAlmanza]">
+  <a href="https://medium.com/@JulianAlmanza">
     <img src="./mediumicon.png" alt="Twitter" width="36" height="36">
   </a>
 </p>
